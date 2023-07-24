@@ -1,4 +1,4 @@
-![Header](Portada.jpg)
+ <img src="Portada.jpg" width="900px">
 ### 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙  
 <h4>Creditos a mi hermanita "Luz Guadalupe" por la creación de la portada 🤗💜</h4> 
 <br>
