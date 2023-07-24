@@ -1,13 +1,11 @@
  <img src="Portada.jpg" width="900px">
-### 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙 💙  
-<h4>Creditos a mi hermanita "Luz Guadalupe" por la creación de la portada 🤗💜</h4> 
 <br>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=marianatom&color=blue&style=for-the-badge" alt="Profile views"/>
 	<img src="https://img.shields.io/github/followers/marianatom?style=for-the-badge&logo=github&color=blue" alt="Github followers"/> 
 </div>
-
-<h4>Hi there👋</h4> 
+<h5>Creditos a mi hermanita "Luz Guadalupe" por la creación de la portada 🤗💜</h5> 
+<h3>Hi there👋</h3> 
 <ul>
 
 <li><b>👤 Name:  </b> Mariana Torres </li>
